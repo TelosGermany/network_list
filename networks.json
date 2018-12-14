@@ -1,10 +1,10 @@
 [
   {
-    "name": "TELOS Testnet",
-    "description": "TELOS Testnet",
+    "name": "TELOS Mainnet",
+    "description": "TELOS Mainnet",
     "owner": "TELOS",
-    "chainId": "e17615decaecd202a365f4c029f206eee98511979de8a5756317e2469f2289e3",
-    "type": "testnet",
+    "chainId": "4667b205c6838ef70ff7988f6e8257e8be0e1284a2f59699054a018f743b1d11",
+    "type": "mainnet",
     "prefix":"TLOS",
     "network": "eos",
     "endpoints": [
@@ -14,7 +14,18 @@
         "port": 443,
         "url": "apinode.telosgermany.io",
         "description": "HTTPS API"
-      },
+      }
+    ]
+  },
+  {
+    "name": "TELOS Testnet",
+    "description": "TELOS Testnet",
+    "owner": "TELOS",
+    "chainId": "e17615decaecd202a365f4c029f206eee98511979de8a5756317e2469f2289e3",
+    "type": "testnet",
+    "prefix":"TLOS",
+    "network": "eos",
+    "endpoints": [
       {
         "name": "Telos Madrid",
         "protocol": "http",
