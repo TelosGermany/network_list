@@ -28,10 +28,10 @@
     "endpoints": [
       {
         "name": "Telos Germany",
-        "protocol": "https",
-        "port": 9876,
+        "protocol": "http",
+        "port": 8888,
         "url": "testnet.telosgermany.io",
-        "description": "HTTPS API"
+        "description": "HTTP API"
       }
     ]
   },
