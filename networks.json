@@ -32,6 +32,20 @@
         "port": 443,
         "url": "api.testnet.telosgermany.io",
         "description": "HTTPS API"
+      },
+      {
+        "name": "DutchEOS",
+        "protocol": "https",
+        "port": 443,
+        "url": "api.philo.telos.dutcheos.io",
+        "description": "HTTPS API"
+      },
+      {
+        "name": "eosBarcelona",
+        "protocol": "http",
+        "port": 8080,
+        "url": "telos.eosbcn.com",
+        "description": "HTTP API"
       }
     ]
   },
