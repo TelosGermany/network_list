@@ -12,7 +12,7 @@
         "name": "Telos Germany",
         "protocol": "https",
         "port": 443,
-        "url": "apinode.telosgermany.io",
+        "url": "api.telosgermany.io",
         "description": "HTTPS API"
       }
     ]
